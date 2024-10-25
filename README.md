@@ -13,7 +13,7 @@ First, ensure you have Python installed on your system. You can download Python 
 
 ### Step 2: Fork the Repository
 
-Fork the repository to your own GitHub account by visiting [complete-pandas-tutorial](https://github.com/KeithGalli/complete-pandas-tutorial) and clicking the "Fork" button in the top-right corner.
+Fork the repository to your own GitHub account and clicking the "Fork" button in the top-right corner.
 
 ### Step 3: Clone the Forked Repository
 
